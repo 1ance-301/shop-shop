@@ -31,4 +31,4 @@
   ## Questions
   If you have questions, my links are below:
   - Github: https://github.com/1ance-301
-  - Email: lancyb281@gmail.com
+  - Email: lancyb281@gmail.com# shop-shop-redux
