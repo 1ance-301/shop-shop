@@ -2,7 +2,6 @@ import React, { useEffect, useMutation } from 'react';
 import Jumbotron from '../components/Jumbotron/index';
 import { ADD_ORDER } from '../utils/mutations';
 import { idbPromise } from '../utils/helpers';
-import Home from './Home';
 
 export function Success() {
     const [addOrder] = useMutation(ADD_ORDER);
@@ -22,7 +21,7 @@ export function Success() {
             }
 
             setTimeout(() => {
-                window.location.assign(Home)
+                window.location.assign('/')
             }, 3000);
         }
 
