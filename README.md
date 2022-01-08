@@ -3,7 +3,7 @@
   ![NPM](https://img.shields.io/npm/l/glob?style=flat-square)
 
   ## Description
-  This is an ecommerce that uses state, 
+  This is an ecommerce that uses state, indexDB, and swipe 
 
   ## Table of Contents
   * [Installation](#installation)
